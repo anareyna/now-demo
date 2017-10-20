@@ -1,0 +1,582 @@
+{
+ "token": {
+    "idUser": 5,
+    "token" : "ABC0123456789"
+  },
+"users":[
+    {
+      "id": 5,
+      "name": "John",
+      "idConcessionaire": 1,
+      "nameConcessionaire": "Mitsui Toyota",
+      "photoConcessionaire": "http://lorempixel.com/108/74",
+      "idEntity": 100,
+      "nameEntity": "Mitsui Toyota S.A.C",
+      "ruc": 34545654654,
+      "vehicleType": [
+        {
+          "id": 1,
+          "name": "Autos",
+          "idSeller": 1
+        },
+        {
+          "id": 2,
+          "name": "Motos",
+          "idSeller": 2
+        },
+        {
+          "id": 3,
+          "name": "Buses y camiones",
+          "idSeller": 3
+        }
+      ]
+
+    }
+  ],
+
+
+  "brands":[
+    {
+      "id": 1,
+      "name" : "Totota"
+    },
+    {
+      "id": 2,
+      "name" : "Hiunday"
+    },
+    {
+      "id": 3,
+      "name" : "Audi"
+    }
+  ],
+
+  "models": [
+    {
+      "id": 1,
+      "name" : "Totota - 1"
+    },
+    {
+      "id": 2,
+      "name" : "Totota - 2"
+    },
+    {
+      "id": 3,
+      "name" : "Totota - 3"
+    },
+    {
+      "id": 4,
+      "name" : "Totota - 4"
+    }
+  ],
+  "data": [
+    {
+      "id": "5951439c500a4c30dab7dad3",
+      "id_brand": 3,
+      "model": "Avensis",
+      "status": true,
+      "versions": 8,
+      "interested": 19
+    },
+    {
+      "id": "5951439c027227ae90614ec6",
+      "id_brand": 3,
+      "model": "Caldina",
+      "status": false,
+      "versions": 10,
+      "interested": 4
+    },
+    {
+      "id": "5951439c3cfddca5aad61feb",
+      "id_brand": 1,
+      "model": "Getz",
+      "status": false,
+      "versions": 17,
+      "interested": 5
+    },
+    {
+      "id": "5951439cce8a979c754c709d",
+      "id_brand": 3,
+      "model": "A8",
+      "status": true,
+      "versions": 2,
+      "interested": 11
+    },
+    {
+      "id": "5951439c8ac4a08a2ff6ca5f",
+      "id_brand": 1,
+      "model": "Creta",
+      "status": false,
+      "versions": 13,
+      "interested": 15
+    },
+    {
+      "id": "5951439c012af5c99381d366",
+      "id_brand": 3,
+      "model": "A7",
+      "status": true,
+      "versions": 17,
+      "interested": 11
+    },
+    {
+      "id": "5951439c2a1c038823e4e511",
+      "id_brand": 3,
+      "model": "Accent",
+      "status": true,
+      "versions": 8,
+      "interested": 13
+    },
+    {
+      "id": "5951439cd7edff554bda9d20",
+      "id_brand": 1,
+      "model": "Avanza",
+      "status": false,
+      "versions": 20,
+      "interested": 18
+    },
+    {
+      "id": "5951439cc7df5c85e90ef18b",
+      "id_brand": 3,
+      "model": "Avensis",
+      "status": false,
+      "versions": 11,
+      "interested": 13
+    },
+    {
+      "id": "5951439c7ee4ac699976bc1a",
+      "id_brand": 1,
+      "model": "A4",
+      "status": true,
+      "versions": 11,
+      "interested": 8
+    },
+    {
+      "id": "5951439cc907933e0cb02eb6",
+      "id_brand": 1,
+      "model": "A7",
+      "status": true,
+      "versions": 4,
+      "interested": 10
+    },
+    {
+      "id": "5951439cb76dccf81e611b86",
+      "id_brand": 2,
+      "model": "Creta",
+      "status": true,
+      "versions": 19,
+      "interested": 4
+    },
+    {
+      "id": "5951439c27bda140d8a33753",
+      "id_brand": 3,
+      "model": "Avanza",
+      "status": false,
+      "versions": 8,
+      "interested": 9
+    },
+    {
+      "id": "5951439c0e54b53016d519d4",
+      "id_brand": 1,
+      "model": "Getz",
+      "status": false,
+      "versions": 4,
+      "interested": 6
+    },
+    {
+      "id": "5951439c29b9e5872748f73f",
+      "id_brand": 2,
+      "model": "Avanza",
+      "status": false,
+      "versions": 2,
+      "interested": 17
+    },
+    {
+      "id": "5951439c836990e82b24f61e",
+      "id_brand": 1,
+      "model": "A7",
+      "status": true,
+      "versions": 20,
+      "interested": 11
+    },
+    {
+      "id": "5951439c66881dba79b5ea9b",
+      "id_brand": 2,
+      "model": "Accent",
+      "status": true,
+      "versions": 16,
+      "interested": 19
+    },
+    {
+      "id": "5951439c27596553938eecb8",
+      "id_brand": 3,
+      "model": "Getz",
+      "status": false,
+      "versions": 18,
+      "interested": 15
+    },
+    {
+      "id": "5951439cb0fca0af876b1063",
+      "id_brand": 1,
+      "model": "Caldina",
+      "status": false,
+      "versions": 12,
+      "interested": 7
+    },
+    {
+      "id": "5951439cdb24e5392589b4a6",
+      "id_brand": 3,
+      "model": "A8",
+      "status": false,
+      "versions": 12,
+      "interested": 13
+    },
+    {
+      "id": "5951439ca539b1d14113972e",
+      "id_brand": 2,
+      "model": "Getz",
+      "status": true,
+      "versions": 19,
+      "interested": 15
+    },
+    {
+      "id": "5951439c2fa5994c6efae017",
+      "id_brand": 3,
+      "model": "Avanza",
+      "status": true,
+      "versions": 6,
+      "interested": 5
+    },
+    {
+      "id": "5951439c06b1aca792285765",
+      "id_brand": 1,
+      "model": "Creta",
+      "status": true,
+      "versions": 6,
+      "interested": 19
+    },
+    {
+      "id": "5951439c581260075d60d206",
+      "id_brand": 2,
+      "model": "A4",
+      "status": false,
+      "versions": 17,
+      "interested": 15
+    },
+    {
+      "id": "5951439c9680cbd6903d3830",
+      "id_brand": 2,
+      "model": "Avanza",
+      "status": false,
+      "versions": 12,
+      "interested": 15
+    },
+    {
+      "id": "5951439c0e5001daec813542",
+      "id_brand": 3,
+      "model": "Getz",
+      "status": false,
+      "versions": 4,
+      "interested": 3
+    },
+    {
+      "id": "5951439c422a5471d5b84e2c",
+      "id_brand": 3,
+      "model": "Caldina",
+      "status": false,
+      "versions": 18,
+      "interested": 12
+    },
+    {
+      "id": "5951439cbb35e04886bc0d11",
+      "id_brand": 2,
+      "model": "A4",
+      "status": true,
+      "versions": 16,
+      "interested": 2
+    },
+    {
+      "id": "5951439c8cf94a44a815415e",
+      "id_brand": 3,
+      "model": "Creta",
+      "status": false,
+      "versions": 6,
+      "interested": 1
+    },
+    {
+      "id": "5951439cd478211a5cc614fc",
+      "id_brand": 3,
+      "model": "Getz",
+      "status": false,
+      "versions": 14,
+      "interested": 20
+    },
+    {
+      "id": "5951439c509e57ad60bb8476",
+      "id_brand": 2,
+      "model": "A7",
+      "status": true,
+      "versions": 3,
+      "interested": 14
+    },
+    {
+      "id": "5951439c3e1f4cead6640c52",
+      "id_brand": 1,
+      "model": "A8",
+      "status": true,
+      "versions": 12,
+      "interested": 3
+    },
+    {
+      "id": "5951439ce3a08b2df9c1220a",
+      "id_brand": 2,
+      "model": "Avensis",
+      "status": false,
+      "versions": 3,
+      "interested": 5
+    },
+    {
+      "id": "5951439c734458a3ebe3a880",
+      "id_brand": 1,
+      "model": "A4",
+      "status": true,
+      "versions": 13,
+      "interested": 13
+    },
+    {
+      "id": "5951439cb082056eb35602b8",
+      "id_brand": 2,
+      "model": "Getz",
+      "status": false,
+      "versions": 10,
+      "interested": 3
+    },
+    {
+      "id": "5951439c2ef8690968b84855",
+      "id_brand": 2,
+      "model": "A8",
+      "status": true,
+      "versions": 12,
+      "interested": 14
+    },
+    {
+      "id": "5951439c000d048c343cde7d",
+      "id_brand": 1,
+      "model": "A7",
+      "status": true,
+      "versions": 15,
+      "interested": 9
+    },
+    {
+      "id": "5951439c0b5a5e442489a479",
+      "id_brand": 3,
+      "model": "Accent",
+      "status": true,
+      "versions": 1,
+      "interested": 7
+    },
+    {
+      "id": "5951439c2d89f17e4248d4ad",
+      "id_brand": 3,
+      "model": "A8",
+      "status": true,
+      "versions": 7,
+      "interested": 16
+    },
+    {
+      "id": "5951439ce0f7cf5a800fdf90",
+      "id_brand": 3,
+      "model": "Accent",
+      "status": true,
+      "versions": 9,
+      "interested": 17
+    },
+    {
+      "id": "5951439c668c4337c809e91e",
+      "id_brand": 3,
+      "model": "A7",
+      "status": true,
+      "versions": 16,
+      "interested": 19
+    }
+  ],
+  "checkbox":{
+    "aa":1
+  },
+
+  "sellers-type": [
+    {
+      "id": 1,
+      "sellerType": {
+        "sellerNameConcessionaire": "Nombre de concesionario",
+        "email1": "email1@gmail.com",
+        "email2": "email2@gmail.com",
+        "phone1": 4564676,
+        "annex1": "051",
+        "phone2": 4564676,
+        "annex2": "178",
+        "description": "descripciones",
+        "address": "Av Pardo 345",
+        "latitude": -12,
+        "longitude": -70,
+        "idUbigeo": 3984
+      },
+      "package": {
+        "announcementPaperPhotoAvailable": 5,
+        "startDateEntityPackage": "2011-07-19 14:34:07",
+        "endDateEntityPackage": "2011-07-23",
+        "daysLeft": 4
+      }
+    },
+    {
+      "id": 2,
+      "sellerType": {
+        "sellerNameConcessionaire": "Nombre de concesionario 2",
+        "email1": "email1@gmail.com 2",
+        "email2": "email2@gmail.com 2",
+        "phone1": 45646762,
+        "annex1": "076",
+        "phone2": 45646762,
+        "annex2": "062",
+        "description": "descripciones2",
+        "address": "Av Pardo 345 2",
+        "latitude": -12,
+        "longitude": -70,
+        "idUbigeo": 39842
+      },
+      "package": {
+        "announcementPaperPhotoAvailable": 2,
+        "startDateEntityPackage": "2011-07-22 14:34:22",
+        "endDateEntityPackage": "2011-07-22",
+        "daysLeft": 2
+      }
+    }
+  ],
+
+
+  "departments": [
+    {
+      "id": 1,
+      "name": "Lima",
+      "provinces": [
+        {
+          "id": 11,
+          "name": "Cañete",
+          "districts": [
+              {
+                "id": 111,
+                "name": "cañete 1"
+              },
+              {
+                "id": 112,
+                "name": "cañete 2"
+              }
+          ]
+        },
+        {
+          "id": 12,
+          "name": "Huaral",
+          "districts": [
+              {
+                "id": 121,
+                "name": "huaral 1"
+              },
+              {
+                "id": 122,
+                "name": "huaral 2"
+              }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "La Libertad",
+      "provinces": [
+        {
+          "id": 21,
+          "name": "Trujillo"
+        },
+        {
+          "id": 22,
+          "name": "Viru"
+        }
+      ],
+      "districts": [
+          {
+            "id": 211,
+            "name": "El porvenir"
+          },
+          {
+            "id": 212,
+            "name": "florencia"
+          },
+          {
+            "id": 221,
+            "name": "viru 1"
+          },
+          {
+            "id": 222,
+            "name": "viru 2"
+          }
+      ]
+    }
+  ],
+
+  "localization": {
+      "department": [
+        {
+          "id": 1,
+          "value": "Lima"
+        },
+        {
+          "id": 2,
+          "value": "La Libertad"
+        }
+      ],
+      "province": [
+        {
+          "id": 11,
+          "idDpto": 1,
+          "value": "Cañete"
+        },
+        {
+          "id": 12,
+          "idDpto": 1,
+          "value": "Huaral"
+        },
+        {
+          "id": 21,
+          "idDpto": 2,
+          "value": "Trujillo"
+        },
+        {
+          "id": 22,
+          "idDpto": 2,
+          "value": "Viru"
+        }
+      ],
+
+      "district": [
+        {
+          "id": 111,
+          "idProvince": 21,
+          "value": "El porvenir"
+        },
+        {
+          "id": 112,
+          "idProvince": 21,
+          "value": "florencia"
+        },
+        {
+          "id": 113,
+          "idProvince": 11,
+          "value": "San Luis"
+        },
+        {
+          "id": 114,
+          "idProvince": 11,
+          "value": "Mala"
+        }
+      ]
+
+  }
+}
